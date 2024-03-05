@@ -19,7 +19,7 @@ func main() {
 		fmt.Println(x)
 	}
 
-	// Prints blank line
+	// Prints blank line.
 	fmt.Println("")
 
 	planetno := 1
