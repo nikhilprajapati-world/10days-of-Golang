@@ -16,7 +16,7 @@ func main() {
 	var password string = "demo@12345"
 	fmt.Println("User credentails are: ", uname+":"+password)
 
-	//Also you can declare short variables
+	//Also you can declare short variables.
 
 	firstName := "John" // Initiates as string
 	lastName := "Wick"  // same as above
