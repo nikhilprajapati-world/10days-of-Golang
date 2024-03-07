@@ -35,8 +35,8 @@ Let's start coding :)
 |----|-----|-------| 
 |01|[Day01](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day01)|Hello world|
 |02|[Day02](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day02)|Variables|
-|02|[Day03](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day03)|forloop|
-|02|[Day04](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day04)|if else|
-|02|[Day05](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day05)|simple function|
-|02|[Day06](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day06)|date and time|
-|02|[Day07](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day07)|random number|
+|03|[Day03](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day03)|forloop|
+|04|[Day04](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day04)|if else|
+|05|[Day05](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day05)|simple function|
+|06|[Day06](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day06)|date and time|
+|07|[Day07](https://github.com/nikhilprajapati-world/10days-of-Golang/tree/main/day07)|random number|
